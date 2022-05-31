@@ -16,7 +16,7 @@ public:
     ~MainWindow();
 public slots:
     void stop();
-    void kill();
+    void kill_process();
     void cont();
     void filtro();
     void cpu();
